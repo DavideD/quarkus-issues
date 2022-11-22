@@ -2,7 +2,7 @@ A test project for https://github.com/hibernate/hibernate-reactive/issues/1427
 
 Examples using [HTTPie](https://httpie.io/) for rest calls:
 ```
-gradle quarkusDev
+./gradlew quarkusDev
 ```
 
 List entities:
